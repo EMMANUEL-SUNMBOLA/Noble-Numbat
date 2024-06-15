@@ -43,4 +43,13 @@
 * First run `cd && nano ~/.bashrc`
 * In the `nano` editor navigate to other alias
 * then add yours `alias xamppstart='sudo /opt/lampp/lampp start'` , `alias cl='clear'`
-* recall that in `nano` editor `CTRL O` will save the changes and `CTRL X` will save the file
+* recall that in `nano` editor `CTRL O` will save the changes and `CTRL X` to close the editor
+* Finally run `source ~/.bashrc` to refresh the commands
+* Check `.bashrc` for some of my custom commands
+
+### EXECUTABLE FILES
+* first run `cd && nano ~/custom`
+* check `.custom` for an example
+* then make the file executable by running `chmod +x ~/custom`
+* then run `sudo mv ~/custom /usr/local/bin/custom` 
+* To use your command just run `custom msg1`
