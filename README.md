@@ -17,7 +17,18 @@
 * `DISCLAIMER` if your PC crashes or you lose your files na you sabi oo, backup if needed
 
 ## APP INSTALLATION
-* The app you need will be `chrome`, `VS-code`, maybe `spotify`
+* The app you need will be `chrome`, `VS-code`, `LAMPP`, maybe `spotify`
 
 ### CHROME
-* Download the `.deb` file from (chrome)[https://www.google.com/chrome/]
+* Download the `.deb` file from [Google](https://www.google.com/chrome/)
+* Then run `sudo apt update && sudo apt upgrade && sudo dpkg -i filename.deb` .
+
+### VS-CODE
+* Download the `.deb` file from [vscode](https://code.visualstudio.com/download)
+* Then run `sudo apt update && sudo apt upgrade && sudo dpkg -i filename.deb` .
+
+### SPOTIFY
+* ee go far, and it changes regularly
+* So just read their [Documentation](https://www.spotify.com/ng/download/linux/)
+
+## CUSTOM COMMANDS
