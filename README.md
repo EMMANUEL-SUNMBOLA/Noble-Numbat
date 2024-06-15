@@ -31,4 +31,16 @@
 * ee go far, and it changes regularly
 * So just read their [Documentation](https://www.spotify.com/ng/download/linux/)
 
+### LAMPP
+* First download the `lampp` installer (`.run` file) from [Apache Friends](https://sourceforge.net/projects/xampp/)
+* Then run `chmod +X filename.run && sudo ./filename.run && sudo /opt/lampp/lampp start`
+
 ## CUSTOM COMMANDS
+- You can add custom commands using 2 methods 
+- `Alias` & `Executable files`
+
+### ALIAS
+* First run `cd && nano ~/.bashrc`
+* In the `nano` editor navigate to other alias
+* then add yours `alias xamppstart='sudo /opt/lampp/lampp start'` , `alias cl='clear'`
+* recall that in `nano` editor `CTRL O` will save the changes and `CTRL X` will save the file
