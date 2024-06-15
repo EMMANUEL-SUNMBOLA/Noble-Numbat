@@ -14,7 +14,6 @@
 * Press the `esc` while booting to ascess the `BIOS`
 * Select the `drive` then boot
 * Choose whether you want to perform a full installation or dualboot
-* `DISCLAIMER` if your PC crashes or you lose your files na you sabi oo, backup if needed
 
 ## APP INSTALLATION
 * The app you need will be `chrome`, `VS-code`, `LAMPP`, maybe `spotify`
@@ -53,3 +52,7 @@
 * then make the file executable by running `chmod +x ~/custom`
 * then run `sudo mv ~/custom /usr/local/bin/custom` 
 * To use your command just run `custom msg1`
+
+
+## DISCLAIMER 
+* If your PC crashes or you lose your files na you sabi oo, backup if needed
